@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharmesh Limbani</h1>
+<h1 align="center">Hi 👋, I'm Dharmesh Bhalani</h1>
 <h3 align="center">A passionate Software Developer from India. I have expertise in MERN stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpbhalani&label=Profile%20views&color=0e75b6&style=flat" alt="dpbhalani" /> </p>
